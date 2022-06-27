@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "DaniloM",
+    "password": "D@nilo0002",
+    "database": "orm",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "DaniloM",
+    "password": "D@nilo0002",
+    "database": "orm",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "DaniloM",
+    "password": "D@nilo0002",
+    "database": "orm",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}

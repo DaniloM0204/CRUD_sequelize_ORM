@@ -1,22 +1,22 @@
 {
   "development": {
-    "username": "DaniloM",
+    "username": "root",
     "password": "D@nilo0002",
-    "database": "orm",
+    "database": "alura",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
-    "username": "DaniloM",
+    "username": "root",
     "password": "D@nilo0002",
-    "database": "orm",
+    "database": "alura",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
-    "username": "DaniloM",
+    "username": "root",
     "password": "D@nilo0002",
-    "database": "orm",
+    "database": "alura",
     "host": "127.0.0.1",
     "dialect": "mysql"
   }

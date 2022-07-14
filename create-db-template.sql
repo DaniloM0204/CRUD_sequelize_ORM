@@ -6,8 +6,6 @@ SHOW TABLES
 DESCRIBE pessoas;
 
 INSERT INTO pessoas (nome, ativo, email, role, createdAt, updatedAt) VALUES ("Carla Gomes", 1, "carla@carla.com", "estudante", NOW(), NOW());
-SELECT * FROM MATRICULAS;
+SELECT * FROM pessoas;
 
-SHOW TABLES;
-
-DESCRIBE MATRICULAS;
+DESCRIBE pessoas;

@@ -5,6 +5,6 @@ USE alura
 SHOW TABLES
 DESCRIBE pessoas;
 
-SELECT * FROM pessoas;
+SELECT * FROM matriculas;
 
 

@@ -8,3 +8,5 @@ DESCRIBE pessoas;
 SELECT * FROM matriculas;
 
 
+
+
